@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Birthday-update-using-React/static/css/main.6766eebb.css",
+    "main.js": "/Birthday-update-using-React/static/js/main.6891d300.js",
+    "index.html": "/Birthday-update-using-React/index.html",
+    "main.6766eebb.css.map": "/Birthday-update-using-React/static/css/main.6766eebb.css.map",
+    "main.6891d300.js.map": "/Birthday-update-using-React/static/js/main.6891d300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6766eebb.css",
+    "static/js/main.6891d300.js"
+  ]
+}
